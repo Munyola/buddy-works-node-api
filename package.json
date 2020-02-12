@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "qs": "^5.2.0",
-    "request": "^2.65.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "chai": "^3.4.0",
